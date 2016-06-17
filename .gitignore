@@ -1,0 +1,16 @@
+### MAC OS system files ###
+.DS_Store
+
+### Puppet ###
+**/puppet-git-hooks
+
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+*.iml
+## Directory-based project format:
+.idea/
+
+### Vagrant ###
+.vagrant/
+Vagrantfile
+agent_ubuntu.sh
